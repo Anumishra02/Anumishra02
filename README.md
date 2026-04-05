@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br><br> 👋 Hi, I'm Anu Mishra<br>🎓 B.Tech student (2027)<br><br>I’m a developer focused on creating simple, clean, and impactful digital experiences.<br><br>With a strong foundation in full-stack development, I now focus on building intelligent systems through machine learning and AI.<br> <br><br>- ⚡ Building: Machine Learning projects & smart applications  <br>- 🧠 Learning: Deep Learning, Data Science, and AI models  <br>- 🎨 Interested in: Machine Learning, AI, and scalable web systems  <br>- 📬 Contact: anumishra555555@gmail.com<br><br>Blending code, creativity, and curiosity — from full-stack apps to intelligent solutions.
+#  👋 Hi, I'm Anu Mishra
+<br>🎓 B.Tech student (2027)<br><br>I’m a developer focused on creating simple, clean, and impactful digital experiences.<br><br>With a strong foundation in full-stack development, I now focus on building intelligent systems through machine learning and AI.<br> <br><br>- ⚡ Building: Machine Learning projects & smart applications  <br>- 🧠 Learning: Deep Learning, Data Science, and AI models  <br>- 🎨 Interested in: Machine Learning, AI, and scalable web systems  <br>- 📬 Contact: anumishra555555@gmail.com<br><br>Blending code, creativity, and curiosity — from full-stack apps to intelligent solutions.
 
 
 ## 🌐 Socials:
