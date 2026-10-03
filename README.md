@@ -114,25 +114,6 @@ flowchart LR
 *Click a project to expand the case study.*
 
 <details open>
-<summary><b>🚗 CarVal — Used-Car Price Predictor</b> &nbsp;·&nbsp; <code>Gradient Boosting</code> <code>scikit-learn</code> <code>Flask</code></summary>
-
-<br/>
-
-A machine learning system that predicts used-car prices and compares them to the live market.
-
-| | |
-| --- | --- |
-| **Data** | 6,019 listings across 11 cities, cleaned from raw mileage, engine and power fields |
-| **Features** | Derived car age and kilometers per year; OneHotEncoder across 13 inputs |
-| **Model** | `GradientBoostingRegressor` (500 estimators, depth 5, learning rate 0.05) |
-| **Result** | **R² = 0.90** with 10-fold CV; **81%** of held-out predictions within ₹2L of the true price |
-| **Deployment** | Flask backend with 4 API routes (auto-fill, market comparison), dark-themed live-price UI on Render, 30 brands and 1,800+ models |
-
-[🔗 View on GitHub](https://github.com/Anumishra02/CarVal)
-
-</details>
-
-<details>
 <summary><b>🧬 Biomedical Signal Analysis — HCL Technologies</b> &nbsp;·&nbsp; <code>PyTorch</code> <code>Pandas</code> <code>NumPy</code></summary>
 
 <br/>
@@ -171,6 +152,27 @@ An LLM-assisted code-review tool that generates improvement suggestions, cutting
 [🔗 View on GitHub](https://github.com/Anumishra02/CodeSense-AI)
 
 </details>
+
+<details>
+<summary><b>🚗 CarVal — Used-Car Price Predictor</b> &nbsp;·&nbsp; <code>Gradient Boosting</code> <code>scikit-learn</code> <code>Flask</code></summary>
+
+<br/>
+
+A machine learning system that predicts used-car prices and compares them to the live market.
+
+| | |
+| --- | --- |
+| **Data** | 6,019 listings across 11 cities, cleaned from raw mileage, engine and power fields |
+| **Features** | Derived car age and kilometers per year; OneHotEncoder across 13 inputs |
+| **Model** | `GradientBoostingRegressor` (500 estimators, depth 5, learning rate 0.05) |
+| **Result** | **R² = 0.90** with 10-fold CV; **81%** of held-out predictions within ₹2L of the true price |
+| **Deployment** | Flask backend with 4 API routes (auto-fill, market comparison), dark-themed live-price UI on Render, 30 brands and 1,800+ models |
+
+[🔗 View on GitHub](https://github.com/Anumishra02/CarVal)
+
+</details>
+
+
 
 <div align="center">
 <a href="https://github.com/Anumishra02/CodeSense-AI"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Anumishra02&repo=CodeSense-AI&theme=tokyonight&hide_border=true" /></a>
