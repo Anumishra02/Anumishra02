@@ -1,18 +1,200 @@
-#  👋 Hi, I'm Anu Mishra
-**<br>🎓 B.Tech student (2027)<br><br>I’m a developer focused on creating simple, clean, and impactful digital experiences.<br><br>With a strong foundation in full-stack development, I now focus on building intelligent systems through machine learning and AI.<br> <br><br>- ⚡ Building: Machine Learning projects & smart applications  <br>- 🧠 Learning: Deep Learning, Data Science, and AI models  <br>- 🎨 Interested in: Machine Learning, AI, and scalable web systems  <br>- 📬 Contact: anumishra555555@gmail.com<br><br>Blending code, creativity, and curiosity — from full-stack apps to intelligent solutions.**
+<!-- ============ 1. HEADER: animated waving banner ============ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:7C3AED&height=200&section=header&text=Anu%20Mishra&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%86%92%20ML%20%26%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anumish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anumishra555555@gmail.com) 
+<!-- ============ 2. TYPING ANIMATION ============ -->
+<a href="https://github.com/Anumishra02">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Smart+AI-Powered+Applications;Full-Stack+Developer+%28MERN%29;Learning+Machine+Learning+%26+Deep+Learning;B.Tech+Student+%40+KNIT+%7C+Class+of+2027;Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anumishra02&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anumishra02&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anumishra02&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/>
+
+<!-- ============ 3. LIVE BADGES ============ -->
+<img src="https://komarev.com/ghpvc/?username=Anumishra02&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Anumishra02?style=for-the-badge&logo=github&color=ff6ec7" />
+<img src="https://img.shields.io/github/stars/Anumishra02?style=for-the-badge&logo=github&color=7c3aed" />
+
+</div>
+
+### 💡 *"Good software is simple on the outside and intelligent on the inside."*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anumishra02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌍 My Vision
+
+I like building things that feel effortless to use, and I'm steadily moving from classic full-stack work toward systems that can learn and decide.
+
+I'm combining:
+
+🌐 Full-Stack Web Development &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 🧠 Deep Learning &nbsp;•&nbsp; ⚡ Real-Time Systems &nbsp;•&nbsp; ☁️ Scalable Backends
+
+into products that are clean, fast and genuinely useful.
+
+---
+
+# 🧠 About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</div>
+
+🔹 B.Tech student (2027) at Kamla Nehru Institute of Technology
+🔹 MERN-stack developer who loves clean UI and solid APIs
+🔹 Shifting focus to Machine Learning, Data Science & AI
+🔹 Interested in scalable web systems and real-time apps
+🔹 Learning by building, shipping and iterating
+
+---
+
+# 🚀 Currently Building
+
+- 🤖 **SmartRoute-AI** — intelligent routing application
+- 💬 **PulseChat** — real-time chat experience
+- 🧑‍💻 **CodeSense-AI** — AI-powered code reviewer (MERN)
+- 📈 ML mini-projects while working through Deep Learning & Data Science
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+  <a href="mailto:anumishra555555@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anumish/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Anumishra02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a> -->
+  <!-- <a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> -->
+</p>
+
+---
+
+# 🔬 Areas of Expertise
+
+```
+Full-Stack Development
+├── React / Next.js
+├── Node.js / Express
+├── REST APIs & JWT Auth
+├── Real-Time (Socket.io)
+└── MongoDB / SQL Databases
+
+Machine Learning & AI
+├── Python, NumPy, Pandas
+├── Data Visualization
+├── Machine Learning Basics
+├── Deep Learning (learning)
+└── AI-Powered Apps
+
+Design & Product
+├── Figma
+├── UI / UX Thinking
+└── Responsive Interfaces
+```
+
+---
+
+# ⚙️ Tech Stack
+
+### 💻 Languages
+![](https://skillicons.dev/icons?i=cpp,python,js,ts)
+
+### 🎨 Frontend
+![](https://skillicons.dev/icons?i=react,nextjs,vite,html,css,sass)
+
+### ⚙️ Backend & Databases
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,firebase,socketio)
+
+### 🤖 AI & Data Science
+![](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn)
+
+### 🛠️ Tools & Deployment
+![](https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| 🧭 [SmartRoute-AI](https://github.com/Anumishra02/SmartRoute-AI) | Smart route-planning application | JavaScript, AI |
+| 💬 [PulseChat](https://github.com/Anumishra02/PulseChat) | Real-time messaging app | TypeScript, Socket.io |
+| 🧑‍💻 [CodeSense-AI](https://github.com/Anumishra02/CodeSense-AI) | AI-powered code reviewer | MERN, AI |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anumishra02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Anumishra02&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anumishra02&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anumishra02&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anumishra02&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anumishra02/Anumishra02/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anumishra02/Anumishra02/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Anumishra02/Anumishra02/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+# 🛣️ 2026–27 Roadmap
+
+- [x] Build full-stack MERN projects
+- [x] Ship real-time and AI-assisted apps
+- [ ] Master Deep Learning fundamentals
+- [ ] Publish 3 end-to-end ML projects
+- [ ] Contribute to open source regularly
+- [ ] Land a strong SDE / ML internship
+- [ ] Become an AI-focused product engineer
+
+---
+
+# 💭 Philosophy
+
+> Write code that is simple to read, easy to change, and worth shipping.
+>
+> Curiosity starts the project. Consistency finishes it.
+
+---
+
+# 📚 Current Learning Journey
+
+```
+Full-Stack (MERN)        █████████░ 90%
+Data Structures & Algo   ███████░░░ 70%
+Python for ML            ███████░░░ 70%
+Machine Learning         ██████░░░░ 60%
+Deep Learning            ████░░░░░░ 40%
+System Design            ████░░░░░░ 40%
+```
+
+---
+
+# ☕ Let's Build Something Great
+
+### 🚀 Open to collaborating on
+Full-Stack Web • Machine Learning • AI Apps • Open Source • Internships
+
+### ⭐ If you like my work, follow along!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:7C3AED&height=140&section=footer" width="100%" />
