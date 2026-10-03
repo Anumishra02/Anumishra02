@@ -13,8 +13,7 @@
 <!-- 3. Live badges -->
 <img src="https://komarev.com/ghpvc/?username=Anumishra02&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Anumishra02?style=for-the-badge&logo=github&color=ff6ec7" />
-<img src="https://img.shields.io/badge/Open%20to-DS%20%2F%20ML%20Roles%20(2027)-22d3ee?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Open_to-Data_Science_and_ML_Roles_2027-22d3ee?style=for-the-badge" />
 <br/><br/>
 
 <a href="https://anumishra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
