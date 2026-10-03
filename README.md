@@ -14,6 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=Anumishra02&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Anumishra02?style=for-the-badge&logo=github&color=ff6ec7" />
 <img src="https://img.shields.io/badge/Open_to-Data_Science_and_ML_Roles_2027-22d3ee?style=for-the-badge" />
+
 <br/><br/>
 
 <a href="https://anumishra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -27,17 +28,18 @@
 
 ## 👋 Hey, I'm Anu
 
-I'm an **Electronics Engineering undergrad (CGPA 8.41) who fell for data science**, and I'm currently an **AI/ML Research Intern at HCL Technologies**, training deep learning models on **biomedical signals**.
+I'm a **Data Science & ML engineer with an Electronics Engineering foundation (CGPA 8.41)**. I'm currently an **AI/ML Research Intern at HCL Technologies**, training deep learning models on **biomedical signals**.
 
 I like the full loop: messy data → clean features → a model I can defend with the right metrics → something people can actually use.
 
 ```python
 class AnuMishra:
     def __init__(self):
-        self.role      = "Data Science & ML Engineer in the making"
+        self.role      = "Data Scientist | ML Engineer"
         self.background = ["Electronics Engineering", "Embedded C/C++", "Signal Processing"]
         self.daily     = ["Python", "Pandas", "NumPy", "scikit-learn", "PyTorch"]
         self.now       = "Deep learning on biomedical signals @ HCL"
+        self.strengths = ["Feature engineering", "Model evaluation", "Shipping ML to production"]
         self.graduating = "June 2027"
 
     def philosophy(self):
@@ -49,10 +51,9 @@ class AnuMishra:
 
 <div align="center">
 
-| 🔭 Now | 📚 Learning | 🎯 Next |
-| :---: | :---: | :---: |
-| Biomedical signal DL model (PyTorch) | LLMs, RAG & prompt engineering | End-to-end MLOps on Azure |
-| ATSync (NLP + Gemini) | Advanced feature engineering | Open-source ML contributions |
+| 🧠 Modeling | 🛠️ Data Engineering | 🚀 Deployment | 🔌 Signals |
+| :---: | :---: | :---: | :---: |
+| Gradient Boosting, PyTorch, scikit-learn | Cleaning, feature engineering, validation | Flask & FastAPI APIs, Docker, Render | Biomedical signal processing, embedded C/C++ |
 
 </div>
 
@@ -221,19 +222,6 @@ An LLM-assisted code-review tool that generates improvement suggestions, cutting
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-22D3EE?style=for-the-badge)
 
 <details>
-<summary><b>🔭 Currently exploring</b></summary>
-
-<br/>
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</details>
-
-<details>
 <summary><b>🌐 Also comfortable with (web)</b></summary>
 
 <br/>
@@ -287,15 +275,13 @@ An LLM-assisted code-review tool that generates improvement suggestions, cutting
 
 <img src="assets/divider.svg" width="100%" height="4" />
 
-## 🛣️ Roadmap 2026–27
+## 🤝 What I Bring to a Team
 
-- [x] Train and deploy an end-to-end ML model (CarVal)
-- [x] Start a research internship in deep learning (HCL)
-- [x] Earn the Microsoft AI & ML Engineering certificate
-- [ ] Publish 3 data-science case studies with notebooks
-- [ ] Build a RAG project end-to-end
-- [ ] Compete in a Kaggle competition
-- [ ] Convert the internship into a full-time ML role
+- ✅ **End-to-end ownership:** from raw, messy data to a deployed model with a working UI (CarVal)
+- ✅ **Research-grade rigor:** custom loss functions, bottleneck diagnosis and multi-metric evaluation (HCL)
+- ✅ **Results I can quantify:** R² 0.90, 81% of predictions within ₹2L, sub-300 ms API responses
+- ✅ **GenAI in practice:** LLM-powered products using Gemini, NLP and prompt engineering
+- ✅ **Hardware-to-ML range:** I understand the signal, not just the model
 
 ---
 
