@@ -64,14 +64,16 @@ class AnuMishra:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generated%20ECG%20Accuracy-76.15%25%20%C2%B1%205.97%25-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real%20ECG%20Accuracy-90.74%25%20%C2%B1%200.67%25-22d3ee?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Evaluation%20Seeds-5-a78bfa?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generated%20ECGs-2%2C000-ff6ec7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Label%20Sensitivity-0.30--5.82%25-22d3ee?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RL%20Improvement-Not%20Significant-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-ECG%20Signal%20Generation-7c3aed?style=for-the-badge&logo=heartbeat&logoColor=white" />
+<img src="https://img.shields.io/badge/Diffusion-Transformer%20Architecture-22d3ee?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generated%20ECG%20Evaluation-76.15%25-ff6ec7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real%20ECG%20Benchmark-90.74%25-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/5-Independent%20Evaluation%20Seeds-22d3ee?style=for-the-badge" />
+<img src="https://img.shields.io/badge/12--Lead-ECG%20Synthesis-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research-Generative%20AI%20%7C%20Healthcare-ff6ec7?style=for-the-badge" />
 
 </div>
+
 
 
 </div>
