@@ -61,14 +61,18 @@ class AnuMishra:
 
 ## 📈 Numbers I'm Proud Of
 
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/R%C2%B2%20Score-0.90-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Training%20Rows-6%2C019-22d3ee?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Predictions%20within%20%E2%82%B92L-81%25-ff6ec7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cross--Validation-10--fold-a78bfa?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-8.41%2F10-22d3ee?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifications-3-ff6ec7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generated%20ECG%20Accuracy-76.15%25%20%C2%B1%205.97%25-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real%20ECG%20Accuracy-90.74%25%20%C2%B1%200.67%25-22d3ee?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Evaluation%20Seeds-5-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generated%20ECGs-2%2C000-ff6ec7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Label%20Sensitivity-0.30--5.82%25-22d3ee?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RL%20Improvement-Not%20Significant-f59e0b?style=for-the-badge" />
+
+</div>
+
 
 </div>
 
